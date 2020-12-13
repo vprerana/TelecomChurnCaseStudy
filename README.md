@@ -14,7 +14,7 @@ In this project, you will analyse customer-level data of a leading telecom firm,
 
 Files in the repo: 
 
-- telecom_churn_data.csv : Dataset used for model building and prediction
+- telecom_churn_data.csv : Dataset used for model building and prediction. Please download the same from this drive link : https://drive.google.com/file/d/1SWnADIda31mVFevFcfkGtcgBHTKKI94J/view
 
 - TelcomChurnCaseStudyDataDescription.xlsx : Data Dictionary used to understand the attributes in the csv file. 
 
